@@ -1,0 +1,19 @@
+{
+    "VECTORIZATION": "TF-IDF",
+    "DIMENSIONALITY": "PCA",
+    "ARI": 0.0964095379342999,
+    "Parameters of vectorization method": {
+        "max_features": 5000,
+        "stop_words": "english",
+        "ngram_range": [
+            1,
+            2
+        ],
+        "min_df": 2,
+        "max_df": 0.95
+    },
+    "Parameters Of Dimensionality Reduction": {
+        "n_components": 0.9000000000000001,
+        "whiten": true
+    }
+}

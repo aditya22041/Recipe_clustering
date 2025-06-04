@@ -1,0 +1,1173 @@
+{
+    "best_results": [
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.10461186164964986,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18322248860050347,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.21247987470485863,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18195067514309543,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.19614898674726094,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.17073328453911385,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.2244013923276103,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.2410887120660125,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.14873105273229092,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.19944950307295226,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.13329629239574975,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.059015377227959465,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.15889782571219238,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.218356788248919,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18985725501315462,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.24655710714416612,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.2306440918794365,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.20514260953265043,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.19740912698006094,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18065791706320225,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.10282191018480186,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.1949138500874667,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.14454770666424294,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.22109487883195988,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.16641474718520757,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.15588555250033337,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.16789387904022837,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18071620439152192,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.2313990794151733,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.17765910371360408,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.21586840893473785,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.12104155639612192,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.07762235246177579,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.08537236313946536,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.07762235246177579,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.05186354152829734,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.10387532168338649,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.08690619398074036,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.10489066192275699,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.12423692648250208,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.1732619556143062,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.1598321265486391,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.14047931345090595,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.1517098258284574,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18456003837495047,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.17239126276401168,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.12402524814967064,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18628958811891608,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.05992570614209285,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.07465874582541118,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18861406750375884,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.11974443787652023,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.06620020529769631,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.08461329817766648,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.15549167079849968,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.15894286119063167,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.18857925611918958,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.13959870999998228,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.05894418483320069,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.11045678947615328,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.09284180623295549,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.06507739074413113,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.16503280312490268,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.13168506975572195,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.15662252290648693,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.1784832026582709,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.17867079954258377,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.1254249042487798,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.22120408407243658,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.1493460704354652,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.1532471193000322,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        },
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.17428787790528338,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 7,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "HDBSCAN Parameters": {
+                "min_cluster_size": 20,
+                "min_samples": 10
+            }
+        }
+    ],
+    "best_ari_score": 0.24655710714416612,
+    "best_parameters": {
+        "VECTORIZATION": "Doc2Vec",
+        "DIMENSIONALITY": "UMAP",
+        "ARI": 0.24655710714416612,
+        "Parameters of vectorization method": {
+            "model_type": "DM",
+            "vector_size": 100,
+            "window": 7,
+            "min_count": 1,
+            "epochs": 40
+        },
+        "HDBSCAN Parameters": {
+            "min_cluster_size": 20,
+            "min_samples": 10
+        }
+    }
+}

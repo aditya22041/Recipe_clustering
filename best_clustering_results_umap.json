@@ -1,0 +1,21 @@
+{
+    "best_results": [
+        {
+            "VECTORIZATION": "Doc2Vec",
+            "DIMENSIONALITY": "UMAP",
+            "ARI": 0.08473034270514157,
+            "Parameters of vectorization method": {
+                "model_type": "DM",
+                "vector_size": 100,
+                "window": 5,
+                "min_count": 1,
+                "epochs": 40
+            },
+            "Parameters Of Dimensionality Reduction": {
+                "n_neighbors": 5,
+                "min_dist": 0.1,
+                "n_components": 2,
+                "metric": "euclidean",
+                "spread": 0.2
+            },
+            "labels": 
