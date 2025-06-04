@@ -1,0 +1,381 @@
+{
+    "Cluster 0": [
+        "Gulab Jamun or Kala Jam (Waffle Balls)",
+        "Gulab Jamun"
+    ],
+    "Cluster 1": [
+        "Patrani Machchi",
+        "Macher Paturi"
+    ],
+    "Cluster 2": [
+        "Dhuska",
+        "Kumro Phool Bhaja"
+    ],
+    "Cluster 3": [
+        "Cham Cham",
+        "Bhapa Doi",
+        "Ras Malai",
+        "Rasmalai"
+    ],
+    "Cluster 4": [
+        "Tandoori Chicken",
+        "Tandoori Chicken",
+        "Chicken Tandoori",
+        "Tandoori Chicken"
+    ],
+    "Cluster 5": [
+        "Biriyani",
+        "Mutton Biryani",
+        "Biryani"
+    ],
+    "Cluster 6": [
+        "Aloo Gobi",
+        "Gobi Aloo"
+    ],
+    "Cluster 7": [
+        "Sambar",
+        "Sambhar"
+    ],
+    "Cluster 8": [
+        "Saag Paneer",
+        "Palak Paneer",
+        "Saag Paneer"
+    ],
+    "Cluster 9": [
+        "Keema",
+        "Kheema"
+    ],
+    "Cluster 10": [
+        "Aluwa",
+        "Poppadoms"
+    ],
+    "Cluster 11": [
+        "Garam Masala",
+        "Egg Curry",
+        "Rajma"
+    ],
+    "Cluster 12": [
+        "Prawn Malai Curry",
+        "Curry",
+        "Kalmi Saag",
+        "Saag Ghosht",
+        "Khar",
+        "Sarson ka Saag",
+        "Nadru Yakhni",
+        "Murg Malaiwala",
+        "Puliyodarai",
+        "Undhiyu",
+        "Bori Dal",
+        "Puli Inji",
+        "Aloo Potol Posto",
+        "Kharzi",
+        "Sel Roti",
+        "Murgi Kofta Curry",
+        "Laal Maas",
+        "Pachadi",
+        "Titar Jhol",
+        "Kalari Kulcha",
+        "Sheermal",
+        "Nungu Payasam",
+        "Chop and Fry Bhindi",
+        "Til Pitha",
+        "Panchamrit",
+        "Goan Xacuti",
+        "Bhang Ki Chutney",
+        "Singhare Ki Kadhi",
+        "Mochar Ghonto",
+        "Bajre ki Raab",
+        "Pitla Bhakri",
+        "Kosambari",
+        "Bhutte Ka Meetha",
+        "Tom Yum Soup",
+        "Shami Kebab",
+        "Bhel Puri",
+        "Kedgeree",
+        "Phaal",
+        "Egg Curry",
+        "Matar Paneer",
+        "Pav Bhaji",
+        "Aviyal",
+        "Paneer Butter Masala",
+        "Gujarati Kadhi",
+        "Sundal",
+        "Paneer",
+        "Milagai Podi",
+        "Coconut Chutney",
+        "Tomato Chutney",
+        "Pesarattu",
+        "Stuffed Bell Peppers",
+        "Gobi Manchurian",
+        "Sannas",
+        "Crab Curry",
+        "Country Captain",
+        "Murag",
+        "Chicken Jalfrezi",
+        "Baingan Bharta",
+        "Chicken Rezala",
+        "Masala",
+        "Coconut Sambol",
+        "Chocolate Cake",
+        "Kitchree",
+        "Shrimp",
+        "Dalcha",
+        "Lemon Rice",
+        "Manicotti",
+        "Chicken Masala",
+        "Gosht",
+        "Chicken Soup",
+        "Raita",
+        "Dal",
+        "Chole",
+        "Daal Baati",
+        "Aloo Gobi",
+        "Stew",
+        "Vindaloo",
+        "Ice Cream Cake",
+        "Cauliflower",
+        "Chicken Balls",
+        "Vegetable Stew",
+        "Mutton Korma",
+        "Paneer Tikka Masala",
+        "Chicken Curry",
+        "Khichda",
+        "Shrikhand",
+        "Lamb Curry",
+        "Bread Pudding",
+        "Black-Eyed Peas",
+        "Spicy Chicken",
+        "Kheer",
+        "Brown Rice",
+        "Chaat",
+        "Gushtaba",
+        "Lamb Saag",
+        "Pepper Chicken",
+        "Fried Rice",
+        "Shawarma",
+        "Labra",
+        "Stuffed Bell Peppers",
+        "Korma",
+        "Rogan Josh",
+        "Kadai Paneer",
+        "Mushroom Curry",
+        "Bhatoora",
+        "Kashmiri Rogan Josh",
+        "Panipuri",
+        "Chapatis",
+        "Masala Chai",
+        "Rasam",
+        "Murukku",
+        "Creams",
+        "Mango Lassi",
+        "Naan",
+        "Khagina",
+        "Kahwah",
+        "Scrambled Eggs",
+        "Chapati",
+        "Fruitcake",
+        "Pindi Chana",
+        "Chili Pepper Water",
+        "Kedgeree",
+        "Chappati",
+        "Gujarati Kadhi",
+        "Kheer",
+        "Chicken Madras",
+        "Paneer",
+        "Firni",
+        "Saheena",
+        "Bhel Puri",
+        "Tomato",
+        "Burfi",
+        "Bhendi",
+        "Rajma",
+        "Sheer Khorma",
+        "Chicken 65",
+        "Tomato Chutney",
+        "Sev",
+        "Hummus",
+        "Panir",
+        "Bhatura",
+        "Thandai",
+        "Kheer",
+        "Samosas",
+        "Malai Kofta",
+        "Vindaloo",
+        "Tandoori Chicken",
+        "Kheer",
+        "Mulligatawny Soup",
+        "Mint Chutney",
+        "Roti",
+        "Poha",
+        "Palak Paneer",
+        "Almond Milk",
+        "Boiled Rice",
+        "Chicken",
+        "Panch Phoron",
+        "Fish Curry",
+        "Lobia",
+        "Doner Kebab",
+        "Murgh Makhani",
+        "Sheer Khurma",
+        "Chicken Masala",
+        "Chapati",
+        "Kuttu Ki Kadhi",
+        "Phool Makhana Curry",
+        "Litti Chokha",
+        "Kharzi",
+        "Bhedawi Puri",
+        "Farcha",
+        "Kolhapuri Misal",
+        "Gojju",
+        "Patrani Machhi",
+        "Dal Piti",
+        "Putharekulu",
+        "Chanchali",
+        "Murgir Jhol",
+        "Gomashio",
+        "Kafuli",
+        "Lagan Nu Custard",
+        "Mangsho Paturi",
+        "Phanasachi Bhaji",
+        "Methi Thepla",
+        "Muthia",
+        "Muthusaram",
+        "Mysore Rasam",
+        "Ambur Vaniyambadi",
+        "Potharekulu",
+        "Appam Chatti Pathiri"
+    ],
+    "Cluster 13": [
+        "Paneer Butter Masala",
+        "Pesarattu",
+        "Rogan Josh",
+        "Seviyan"
+    ],
+    "Cluster 14": [
+        "Paratha",
+        "Atlantic Salmon",
+        "Gujiya",
+        "Pongal",
+        "Chapati",
+        "Aloo Dum"
+    ],
+    "Cluster 15": [
+        "Indian Corn",
+        "Falooda",
+        "Mushroom Curry",
+        "Masala Chai",
+        "Kulfi",
+        "Patrani Machchi"
+    ],
+    "Cluster 16": [
+        "Indian Summer",
+        "Ras Gulla"
+    ],
+    "Cluster 17": [
+        "Palak Paneer",
+        "Chicken Tikka Masala",
+        "Mutton Korma"
+    ],
+    "Cluster 18": [
+        "Tandoori Masala",
+        "Rasgula"
+    ],
+    "Cluster 19": [
+        "Chicken Tandoori",
+        "Strawberry",
+        "Pathrode",
+        "Keerai Vadai",
+        "Chennikkaya Kottina"
+    ],
+    "Cluster 20": [
+        "Shakshuka",
+        "Dalcha"
+    ],
+    "Cluster 21": [
+        "Butter Chicken",
+        "Chicken Tikka"
+    ],
+    "Cluster 22": [
+        "Coconut Chutney",
+        "Murgh Musallam"
+    ],
+    "Cluster 23": [
+        "Upma",
+        "Kashmiri Rogan Josh"
+    ],
+    "Cluster 24": [
+        "Chicken Biryani",
+        "Lemonade"
+    ],
+    "Cluster 25": [
+        "Neyyappam",
+        "Siddu",
+        "Bhutte ka Kees",
+        "Chegodilu"
+    ],
+    "Cluster 26": [
+        "Milk Rice",
+        "Radhaballavi"
+    ],
+    "Cluster 27": [
+        "Mattar Paneer",
+        "Rogan Josh"
+    ],
+    "Cluster 28": [
+        "Baingan Bharta",
+        "Fish Curry"
+    ],
+    "Cluster 29": [
+        "Dum Aloo",
+        "Gajar Ka Halwa",
+        "Bajre ka Khichda",
+        "Alu Pitika"
+    ],
+    "Cluster 30": [
+        "Dahi Vada",
+        "Mango Chutney"
+    ],
+    "Cluster 31": [
+        "Basmati Rice",
+        "Tahiri"
+    ],
+    "Cluster 32": [
+        "Chicken Korma",
+        NaN
+    ],
+    "Cluster 33": [
+        "Pathiri",
+        "Chhena Poda"
+    ],
+    "Cluster 34": [
+        "Kharzi",
+        "Gatte ki Sabzi",
+        "Chak Hao Amubi"
+    ],
+    "Cluster 35": [
+        "Guguni",
+        "Bhutte ka Raita"
+    ],
+    "Cluster 36": [
+        "Sanasa",
+        "Kootu",
+        "Shukto"
+    ],
+    "Cluster 37": [
+        "Dalma",
+        "Bhaang Pakora"
+    ],
+    "Cluster 38": [
+        "Tambda Rassa",
+        "Chakli"
+    ],
+    "Cluster 39": [
+        "Thalicha Chapathi",
+        "Goan Bebinca",
+        "Panchkutiyu Shaak"
+    ],
+    "Cluster 40": [
+        "Thekua",
+        "Tamatar ki Launji"
+    ]
+}
